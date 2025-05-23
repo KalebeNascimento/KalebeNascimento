@@ -1,36 +1,55 @@
-# 👋 Olá! Eu sou Kalebe Silva do Nascimento
+<h1 align="center">👋 Olá, eu sou o Kalebe Silva do Nascimento</h1>
 
-### Sobre mim
-🎓 Sou estudante de Engenharia de Software na Universidade Tecnológica Federal do Paraná (UTFPR), com previsão de conclusão em 2027. Tenho paixão pelo desenvolvimento backend, especialmente com C#, e estou em busca de uma oportunidade de estágio para aprimorar minhas habilidades nessa área.
-
-### Experiência e Voluntariado
-- 👨‍💻 **Organizador da SECOMP** – Como líder na organização da SECOMP, um evento anual de tecnologia na UTFPR, coordeno atividades como palestras, minicursos e workshops, sempre com o foco em explorar futuras tecnologias e democratizar o conhecimento para o público em geral.
-- 🌍 **Presidente do DACOMP e Voluntário no Hackabee** – Como presidente do Diretório Acadêmico de Computação (DACOMP), lidero iniciativas para promover o engajamento dos estudantes em atividades acadêmicas e profissionais. Também sou voluntário no Hackabee, uma maratona de inovação no Paraná.
-
-### Tecnologias e Habilidades
-📌 Trabalho com:
-
-**Linguagens de Programação**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+<p align="center">
+  🚀 Estudante de Engenharia de Software na UTFPR <br>
+  💻 Apaixonado por desenvolvimento back-end e tecnologia <br>
+  🌐 Buscando contribuir com projetos, aprender e crescer na área de desenvolvimento de software <br>
 </p>
 
-**Frameworks e Ferramentas**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
+---
+
+## 🧠 Sobre mim
+
+- 🎯 Foco em desenvolvimento **back-end**, especialmente com **C# e .NET**
+- 🌎 Também possuo conhecimentos em **MySQL**, **APIs REST**, **Azure**, **Google Cloud**, **Docker**, **Git**, e tecnologias de front-end como **React** e **Angular**
+- 📚 Atualmente, sou estudante de **Engenharia de Software** na **UTFPR**, onde também atuo em atividades acadêmicas e liderança estudantil
+- 🤝 Atuei como **Presidente do Diretório Acadêmico de Computação (DACOMP)**, organizando eventos como a SECOMP, minicursos e caravanas acadêmicas
+- 🔥 Apaixonado por desafios, tecnologia, trabalho em equipe e desenvolvimento contínuo
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+<div>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KalebeNascimento&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalebeNascimento&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+---
+
+## 🌐 Conecte-se comigo
+
+<p>
+  <a href="https://www.linkedin.com/in/kalebe-exe/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:kalebesilvanascimento@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
-
-**Outras Habilidades**
-- Gestão de projetos
-- Desenvolvimento de websites
-- Organização de eventos
-
-### Objetivo
-🚀 Meu objetivo é me tornar um desenvolvedor full stack, com forte ênfase no backend, ajudando empresas a inovarem e a se destacarem com soluções tecnológicas de impacto.
