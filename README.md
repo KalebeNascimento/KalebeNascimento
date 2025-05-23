@@ -1,24 +1,24 @@
-<h1 align="center">👋 Olá, eu sou o Kalebe Silva do Nascimento</h1>
+<h1 align="center">Olá, eu sou o Kalebe Silva do Nascimento</h1>
 
 <p align="center">
-  🚀 Estudante de Engenharia de Software na UTFPR <br>
+  Estudante de Engenharia de Software na UTFPR <br>
   💻 Apaixonado por desenvolvimento back-end e tecnologia <br>
   🌐 Buscando contribuir com projetos, aprender e crescer na área de desenvolvimento de software <br>
 </p>
 
 ---
 
-## 🧠 Sobre mim
+## Sobre mim
 
-- 🎯 Foco em desenvolvimento **back-end**, especialmente com **C# e .NET**
-- 🌎 Também possuo conhecimentos em **MySQL**, **APIs REST**, **Azure**, **Google Cloud**, **Docker**, **Git**, e tecnologias de front-end como **React** e **Angular**
-- 📚 Atualmente, sou estudante de **Engenharia de Software** na **UTFPR**, onde também atuo em atividades acadêmicas e liderança estudantil
-- 🤝 Atuei como **Presidente do Diretório Acadêmico de Computação (DACOMP)**, organizando eventos como a SECOMP, minicursos e caravanas acadêmicas
-- 🔥 Apaixonado por desafios, tecnologia, trabalho em equipe e desenvolvimento contínuo
+- Foco em desenvolvimento **back-end**, especialmente com **C# e .NET**
+- Também possuo conhecimentos em **MySQL**, **APIs REST**, **Azure**, **Google Cloud**, **Docker**, **Git**, e tecnologias de front-end como **React** e **Angular**
+- Atualmente, sou estudante de **Engenharia de Software** na **UTFPR**, onde também atuo em atividades acadêmicas e liderança estudantil
+- Atuei como **Presidente do Diretório Acadêmico de Computação (DACOMP)**, organizando eventos como a SECOMP, minicursos e caravanas acadêmicas
+- Apaixonado por desafios, tecnologia, trabalho em equipe e desenvolvimento contínuo
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 <div>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
